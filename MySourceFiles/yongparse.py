@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[3]:
-
 import csv
 
 MY_FILE = "../data/sample_sfpd_incident_all.csv"
@@ -23,37 +19,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# 
-
-# In[ ]:
-
-
 
