@@ -8,7 +8,7 @@ def create_map(data_file):
     # Define empty list to collect each point to graph
     item_list = []
     # Iterate over our data to create GeoJSON document.
-    # We're using enumerate() so we get the line, as well
+    # We're using enumerate() so we get the line, as well as
     # the index, which is the line number.
     for i, line in enumerate(data_file):
         # Skip any zero coordinates as this will throw off
