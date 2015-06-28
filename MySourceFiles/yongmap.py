@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[2]:
-
 import geojson
 import yongparse
 
@@ -48,14 +44,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
